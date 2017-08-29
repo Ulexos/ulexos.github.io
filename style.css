@@ -106,7 +106,7 @@ img {
 	width: 50px;
 	display: inline-block;
 	position: relative;
-	margin: 0;
+	margin: 7;
 	transition: all 0.2s ease;
 }
 
